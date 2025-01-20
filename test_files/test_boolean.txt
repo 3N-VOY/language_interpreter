@@ -1,0 +1,47 @@
+print "Expression: true == false"
+print "Result: "
+print true == false
+
+print "Expression: true != false"
+print "Result: "
+print true != false
+
+print "Expression: (5 < 10)"
+print "Result: "
+print (5 < 10)
+
+print "Expression: !(5 - 4 > 3 * 2 == !false)"
+print "Result: "
+print !(5 - 4 > 3 * 2 == !false)
+
+print "Expression: true and true"
+print "Result: "
+print true and true
+
+print "Expression: false and true"
+print "Result: "
+print false and true
+
+print "Expression: (0 < 1) or false"
+print "Result: "
+print (0 < 1) or false
+
+print "Expression: false or false"
+print "Result: "
+print false or false
+
+print "Expression: !true"
+print "Result: "
+print !true
+
+print "Expression: !(false or false)"
+print "Result: "
+print !(false or false)
+
+print "Expression: (5 <= 5) and (10 >= 10)"
+print "Result: "
+print (5 <= 5) and (10 >= 10)
+
+print "Expression: (1 < 2) and (3 < 4) or false"
+print "Result: "
+print (1 < 2) and (3 < 4) or false

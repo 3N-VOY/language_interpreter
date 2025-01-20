@@ -1,0 +1,29 @@
+# Test list functionality
+numbers = [10, 20, 30]
+print "List created: "
+print numbers
+
+# Access elements
+print "First element: "
+print numbers[0]
+
+# Modify elements
+numbers[1] = 25
+print "Modified list: "
+print numbers
+
+# Append to list
+numbers.append(40)
+print "After append: "
+print numbers
+
+# List length
+count = len(numbers)
+print "List length: "
+print count
+
+# List concatenation
+more_numbers = [50, 60]
+all_numbers = numbers + more_numbers
+print "Combined list: "
+print all_numbers

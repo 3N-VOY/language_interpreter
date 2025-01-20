@@ -1,0 +1,7 @@
+print "Hello, world!"
+print "Concatenation: " + "string1" + " " + "string2"
+print "Equality: " + (("abc" == "abc") ? "true" : "false")
+print "Inequality: " + (("abc" != "def") ? "true" : "false")
+print "Number to string: " + "The answer is " + 42
+print "Escape sequences: \n1. Tab: \t tabbed text\n2. Quote: \"quoted text\""
+print "Empty string: " + ""

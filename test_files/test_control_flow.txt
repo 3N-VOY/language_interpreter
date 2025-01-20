@@ -1,0 +1,11 @@
+# Simple shopping list program
+items = 0
+print "Shopping List Program"
+
+while (items < 3) {
+  new_item = input("Add an item to the shopping list: ")
+  print "Added: " + new_item
+  items = items + 1
+}
+
+print "Shopping list complete!"

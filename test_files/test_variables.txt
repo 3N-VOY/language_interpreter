@@ -1,0 +1,14 @@
+quickMaths = 10
+quickMaths = quickMaths + 2
+print quickMaths
+
+floatTest = 1.0
+floatTest = floatTest + 5
+print floatTest
+
+stringCatTest = "10 corgis"
+stringCatTest = stringCatTest + 5 + " more corgis"
+print stringCatTest
+
+errorTest = 5
+print errorTest

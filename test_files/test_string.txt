@@ -1,0 +1,12 @@
+print "Expression: \"hello\" + \" \" + \"world\""
+print "Result: "
+print "hello" + " " + "world"
+
+print "Expression: \"foo\" + \"bar\" == \"foobar\""
+print "Result: "
+print "foo" + "bar" == "foobar"
+
+print "Expression: \"10 corgis\" != \"10\" + \"corgis\""
+print "Result: "
+print "10 corgis" != "10" + "corgis"
+
